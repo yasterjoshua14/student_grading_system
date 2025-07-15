@@ -2,7 +2,7 @@
 
 use Dado\Gs\Models\StudentModel;
 
-require 'vender/autoload.php';
+require 'vendor/autoload.php';
 
 $student1 = new StudentModel;
 var_dump($student1);
