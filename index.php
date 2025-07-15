@@ -1,7 +1,6 @@
 <?php
 
-use Dado\Gs\Models;
-use Dado\Gs\Models;
+use Dado\Gs\Models\StudentModel;
 
 require 'vender/autoload.php';
 
